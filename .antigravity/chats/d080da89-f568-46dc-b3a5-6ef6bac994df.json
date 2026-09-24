@@ -4,5 +4,18 @@
   "createdAt": "2026-09-24T12:48:33.389Z",
   "filename": "d080da89-f568-46dc-b3a5-6ef6bac994df.json",
   "geminiStarted": false,
-  "messages": []
+  "messages": [
+    {
+      "id": "49498deb-81cc-4f46-8f63-c19a58d38b2e",
+      "role": "user",
+      "content": "Zobraz apky z google ai studio",
+      "status": "pending",
+      "model": "gemini-3.8-flash-high",
+      "client_type": "gemini-bridge",
+      "parent_message_id": null,
+      "created_at": "2026-09-24T12:50:14.558Z",
+      "sender": "ios",
+      "is_cancelled": false
+    }
+  ]
 }
